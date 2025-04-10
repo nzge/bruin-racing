@@ -1,0 +1,12 @@
+[submodule "projects/lap-sim"]
+	path = projects/lap-sim
+	url = https://github.com/nzge/lap-sim
+[submodule "projects/aero-dev"]
+	path = projects/aero-dev
+	url = https://github.com/nzge/aero-dev
+[submodule "projects/cv-boot"]
+	path = projects/cv-boot
+	url = https://github.com/nzge/cv-boot
+[submodule "projects/tire-temp-sensor"]
+	path = projects/tire-temp-sensor
+	url = https://github.com/nzge/tire-temp-sensor
